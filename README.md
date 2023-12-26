@@ -24,7 +24,7 @@ I'm a budding Data Scientist stepping into the exciting world of data, algorithm
 
 ## 📈 Progress & Projects
 - State Maps
-- AGRO BUDDYA
+- AGRO BUDDY
 - Sentimental Analysis
 
 ## 📫 How to Reach Me
